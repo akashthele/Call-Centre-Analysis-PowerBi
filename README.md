@@ -10,10 +10,15 @@ Microsoft Power BI, a powerful business analytics tool, was employed to design a
 
  Call Centre Analysis - Insights:
 This section of the dashboard focuses on overall call center performance and provides the following insights:
+
 💡Total Calls: The overall volume of calls received.
+
 💡Calls Answered: Number of calls that were successfully answered.
+
 💡Calls Rejected: Instances where calls were not answered.
+
 💡Calls Answered/Not Answered per Agent: A breakdown of calls  Answered and those left rejected, categorized per Agent.
+
 💡 Best Performing Agent : Recognize and appreciate outstanding individual contributions.
 
 
